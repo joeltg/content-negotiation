@@ -1,4 +1,4 @@
-package negotiation
+package content
 
 import (
 	"net/http"
