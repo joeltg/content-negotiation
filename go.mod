@@ -1,3 +1,3 @@
-module github.com/joeltg/negotiate/content
+module github.com/joeltg/negotiate
 
 go 1.13
